@@ -1,0 +1,19 @@
+{
+    "name": "maslosoft/df-meta",
+    "description": "Matapackage for Document Foundation",
+    "type": "metapackage",
+    "license": ["AGPL-3.0-or-later", "proprietary"],
+    "authors": [
+        {
+            "name": "Peter Maselkowski",
+            "email": "office@maslosoft.com"
+        }
+    ],
+    "require": {},
+    "repositories": [
+		{
+            "type": "composer",
+            "url": "https://packages.maslosoft.com"
+        }
+    ]
+}
